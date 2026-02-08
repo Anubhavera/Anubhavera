@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anubhav Hooda</h1>
-<h3 align="center">An AI and software engineer with a strong foundation in advanced machine learning and deep learning, I specialize in creating intelligent solutions that integrate data-driven algorithms, neural networks, and cloud-based infrastructure. Leveraging experience in leading technical teams, I drive impactful AI/ML projects that enhance decision-making, from complex models for event detection and safety systems to pioneering tools for smart resume analysis and personalized large language models. With a robust technical toolkit spanning Python, JavaScript, and cutting-edge cloud technologies, I’m dedicated to innovating solutions that fuse technical excellence with strategic vision.</h3>
+<h3 align="center">Full-Stack Engineer | ML/AI Practitioner
 
-- 🔭 I’m currently working on **SparkFlow**
+I build end-to-end software systems—from scalable backends and cross-platform mobile apps to production ML pipelines. Currently working as an SDE-I, where I've shipped a complete B2B ordering platform (React Native + Node.js), engineered a Fleet Management System with real-time tracking, and built a CNN-based invoice processing tool that reduced finance team processing time by 86%.
+
+My work spans the full stack: React/React Native frontends, Express.js and PostgreSQL backends, AWS infrastructure, and applied machine learning including deep learning, NLP, and time-series forecasting. I've published research on deepfake detection at IEEE TENCON 2024 and won Smart India Hackathon 2023 for satellite signal analysis achieving 92% accuracy.
+
+I focus on writing maintainable code, solving real problems with the right tools, and shipping software that works at scale. Open to collaborating on challenging full-stack or ML/AI projects.
+
+</h3>
+
+- 🔭 I’m currently working on **SLM**
 
 - 🌱 I’m currently learning **LLM-Ops**
 
-- 💬 Ask me about **ML , Full-Stack Web-Development**
+- 💬 Ask me about **Full-Stack Web-Development / AI-ML**
 
 - 📫 How to reach me **hoodaanubhav@gmail.com**
 
