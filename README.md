@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:hoodaanubhav@gmail.com">Email</a> •
-  <a href="https://anubhavhooda.live">Portfolio</a> •
+  <a href="https://anubhavhooda.dev">Portfolio</a> •
   <a href="https://linkedin.com/in/anubhavera">LinkedIn</a>
 </p>
 
